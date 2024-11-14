@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://defencepost.in/</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/posts</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/login</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/signup</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/course</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/free</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/dataHub</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/forgotpassword</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/forgot-password/:id/:token</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/singlepostpage/:postId/:index/:category</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/viewdetails/:courseId</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/mycourse</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/previewPdf/uploads/:link</loc>
+</url>
+<url>
+  <loc>https://defencepost.in/preview/pdf</loc>
+</url>
+
+</urlset>
